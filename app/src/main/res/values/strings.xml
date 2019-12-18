@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CdM</string>
+    <string name="moneda_lb">Moneda seleccionada:</string>
+    <string name="dolar_lb">Dólar:</string>
+    <string name="euro_lb">Euro:</string>
+    <string name="libra_lb">Libra:</string>
+    <string name="peso_lb">Pesos:</string>
+    <string name="tv_valor">Digite el valor:</string>
+    <string name="et_valor">Valor</string>
+    <string name="tv_seleccion">Seleccione la divisa correspodiente al valor:</string>
+    <string name="rb_dolar">USD</string>
+    <string name="rb_euro">EURO</string>
+    <string name="rb_libra">LIBRA</string>
+    <string name="rb_pesos">COP</string>
+    <string name="bt_cambiar">Cambiar</string>
+
+</resources>
